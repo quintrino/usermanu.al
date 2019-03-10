@@ -1,16 +1,9 @@
-# Dependencies
-markdown:         redcarpet
-highlighter:      pygments
-
-# Permalinks
-permalink:        pretty
-
 # Setup
 title:            User Manual
 tagline:          'A Jekyll theme'
 description:      'A guide to help you figure out how to deal with people'
-url:              http://usermana.ul
-baseurl:          /
+baseurl: /
+url: ""
 
 author:
   name:           'Nick Wolf'
