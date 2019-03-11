@@ -2,7 +2,7 @@
 title:            User Manual
 tagline:          'A Jekyll theme'
 description:      'A guide to help you figure out how to deal with people'
-baseurl: /
+baseurl: "/"
 url: ""
 
 author:
